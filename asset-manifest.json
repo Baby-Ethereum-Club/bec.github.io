@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BEC.github.io/static/css/main.8e0c86af.chunk.css",
+    "main.js": "/BEC.github.io/static/js/main.05d247bb.chunk.js",
+    "main.js.map": "/BEC.github.io/static/js/main.05d247bb.chunk.js.map",
+    "runtime-main.js": "/BEC.github.io/static/js/runtime-main.37ed2e4a.js",
+    "runtime-main.js.map": "/BEC.github.io/static/js/runtime-main.37ed2e4a.js.map",
+    "static/js/2.311e5c40.chunk.js": "/BEC.github.io/static/js/2.311e5c40.chunk.js",
+    "static/js/2.311e5c40.chunk.js.map": "/BEC.github.io/static/js/2.311e5c40.chunk.js.map",
+    "static/js/3.0c037249.chunk.js": "/BEC.github.io/static/js/3.0c037249.chunk.js",
+    "static/js/3.0c037249.chunk.js.map": "/BEC.github.io/static/js/3.0c037249.chunk.js.map",
+    "index.html": "/BEC.github.io/index.html",
+    "static/css/main.8e0c86af.chunk.css.map": "/BEC.github.io/static/css/main.8e0c86af.chunk.css.map",
+    "static/js/2.311e5c40.chunk.js.LICENSE.txt": "/BEC.github.io/static/js/2.311e5c40.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/BEC.github.io/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37ed2e4a.js",
+    "static/js/2.311e5c40.chunk.js",
+    "static/css/main.8e0c86af.chunk.css",
+    "static/js/main.05d247bb.chunk.js"
+  ]
+}
